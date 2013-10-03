@@ -64,6 +64,13 @@ A community framework to take advantage of the F# language features to create tr
 
 *  See also [Using F# for Data Science](/data-science)
 
+<br />
+
+### Community Projects: System Tools & Distribution Frameworks
+
+* [FsPickler](https://github.com/eiriktsarpalis/FsPickler/) 
+
+A fast, general-purpose binary serializer for .NET written in F# that doubles as a pickler combinator library.
 
 <br />
 
